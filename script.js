@@ -5,6 +5,7 @@
     
     let num1 = parseInt(prompt("Enter Number"))
     let num2 = parseInt(prompt("Enter Number"))
+    
     let result = num1 % num2
      
     
@@ -17,4 +18,3 @@
     fullBuses++
     }
      
-    console.log(fullBuses)
