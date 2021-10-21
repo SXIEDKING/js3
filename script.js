@@ -45,13 +45,13 @@ function isNUmber(v){
     return!isNaN(v)
 } */
 
-let password = prompt("What is the password?")
+let password = prompt(`What is the password?`)
 
-while (password !="Snooki"){
-    password = prompt("Are U dumb?")
+while (password !=`Snooki`){
+    password = prompt(`Are U dumb?`)
 }
 
-alert("Took forever! Took ${n} attempts") 
+alert(`Took forever! Look at your attempts xD ${password}`) 
 
 
 
