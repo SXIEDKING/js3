@@ -2,7 +2,7 @@
 
 let Days =["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
 
-let dayNumber = 6;
+let dayNumber = Math.floor(Math.Random(0,6)*10)
 
 if (dayNumber === 0) {
   console.log(Days[0]);
@@ -27,5 +27,5 @@ else if (dayNumber === 6) {
 }
 else if (dayNumber > 6) 
 {
-  console.log("Incorrect day number")
+  alert("Incorrect day number")
 } 
