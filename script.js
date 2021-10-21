@@ -51,6 +51,6 @@ while (password !="Snooki"){
     password = prompt("Are U dumb?")
 }
 
-console.log("Took forever retard!")
+Alert("Took forever retard!")
 
 
