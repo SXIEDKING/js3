@@ -1,6 +1,6 @@
     
 
-let dayNumber=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
+let Days =["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
 
 let dayNumber = 6;
 
