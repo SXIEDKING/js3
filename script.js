@@ -49,9 +49,10 @@ let password = prompt(`What is the password?`)
 
 while (password !=`Snooki`){
     password = prompt(`Are U dumb?`)
+    x++
 }
 
-alert(`Took forever! Look at your attempts xD ${password}`) 
+alert(`Took forever! Look at your attempts xD ${x}`) 
 
 
 
