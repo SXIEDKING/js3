@@ -2,7 +2,7 @@
 
 let Days =["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
 alert("Pick a number");
-let dayNumber = 6
+let dayNumber = Math.floor(Math.random(0,6)*10)
 
 if (dayNumber === 0) {
   console.log(Days[0]);
