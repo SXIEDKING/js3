@@ -44,7 +44,7 @@ alert (result)
 function isNUmber(v){
     return!isNaN(v)
 } */
-
+let x=0
 let password = prompt(`What is the password?`)
 
 while (password !=`Snooki`){
