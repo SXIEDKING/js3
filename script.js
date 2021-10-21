@@ -51,6 +51,8 @@ while (password !="Snooki"){
     password = prompt("Are U dumb?")
 }
 
-alert("Took forever retard!")
+alert("Took forever retard!", $,{password})
+
+
 
 
