@@ -29,7 +29,7 @@ else if (dayNumber > 6)
 {
   alert("Incorrect day number")
 } */
-
+/*
 let Days =["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
 let n = prompt("Enter Day Number")
 
@@ -43,4 +43,14 @@ alert (result)
 
 function isNUmber(v){
     return!isNaN(v)
+} */
+
+let password = prompt("What is the password?")
+
+while (password !="Snooki"){
+    password = prompt("Are U dumb?")
 }
+
+console.log("Took forever retard!")
+
+
