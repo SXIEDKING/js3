@@ -44,7 +44,7 @@ alert (result)
 function isNUmber(v){
     return!isNaN(v)
 } */
-let x=0
+/*let x=0
 let password = prompt(`What is the password?`)
 
 while (password !=`Snooki`){
@@ -52,9 +52,13 @@ while (password !=`Snooki`){
     x++
 }
 
-alert(`Took forever! Look at your attempts xD ${x}`) 
+alert(`Took forever! Look at your attempts xD ${x}`) */
 
+let name= prompt("what name")
 
+for(let i=1; i<=myName.length;i++){
+    console.log("Happy birthday"+ i)
+}
 
 
 
