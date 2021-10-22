@@ -54,10 +54,10 @@ while (password !=`Snooki`){
 
 alert(`Took forever! Look at your attempts xD ${x}`) */
 
-let name= prompt("what name")
+let myName= prompt("what name")
 
 for(let i=1; i<=myName.length;i++){
-    console.log("Happy birthday"+ i)
+    alert("Happy birthday"+ i)
 }
 
 
